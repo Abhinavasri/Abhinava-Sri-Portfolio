@@ -18,7 +18,7 @@ import {
 } from "@mui/icons-material";
 import { motion } from "framer-motion";
 import data from "../data";
-import profilePic from "../assets/abhi.jpg";
+import profilePic from "../assets/abhi.JPG";
 
 export default function Hero() {
   const theme = useTheme();

@@ -76,7 +76,7 @@ export default function Header() {
             >
               <Button
                 sx={{
-                  color: "#1e293b",
+                  color: "white",
                   fontWeight: 600,
                   "&:hover": {
                     // color: "#4F46E5",
