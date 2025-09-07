@@ -8,7 +8,7 @@ const data = {
   github: "https://github.com/Abhinavasri",
   portfolio: "http://datascienceportfol.io/abhinavasri",
   thopMember: "https://thop-verse.com/team/abhinava-sri-chamanchula/",
-  resume: "../public/Abhinava.pdf",
+  resume: "../Abhinava.pdf",
   about: "A Passionate Full Stack Developer with hands-on experience through internships and real-time projects. Skilled in creating dynamic, responsive web applications using React.js, Node.js, Express.js, and MongoDB. Eager to leverage my expertise in frontend, backend, and Java technologies to build innovative, scalable solutions and contribute to high-impact projects in collaborative environments.",
   // skills: {
   //   frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React.js", "Next.js", "MUI"],
